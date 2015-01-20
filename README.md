@@ -1,3 +1,3 @@
 # github-repo-parser
 
-A very simple PHP scrapper for massive download a links at github repositories. 
+A very simple PHP scrapper for massive download a links (.zip) at github repositories, for further download with help download master. 
